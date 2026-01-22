@@ -1,4 +1,5 @@
 CREATE TABLE TEST
-   (	X NUMBER(*,0)
+   (	X NUMBER(*,0),
+	X1 NUMBER(*,0)
    ) ;
 
